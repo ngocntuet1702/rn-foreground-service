@@ -1,4 +1,4 @@
-# @supersami/rn-foreground-service 🤟
+# vcar-rn-foreground-service 🤟
 
 > A foreground service with headless task that can manage multiple headless tasks execution at the same time and handle interactions. 🎉
 
@@ -16,13 +16,13 @@ If you want a foreground service in react native, RN-foreground-service is the w
 ## Install
 
 ```bash
-npm i @supersami/rn-foreground-service
+npm i vcar-rn-foreground-service
 ```
 
 or
 
 ```bash
-yarn add @supersami/rn-foreground-service
+yarn add vcar-rn-foreground-service
 ```
 
 ### Update Native Files
